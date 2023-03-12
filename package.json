@@ -1,7 +1,7 @@
 {
   "name": "discord-notificator",
   "version": "1.0.0",
-  "description": "It acts as a WebAPI server that keeps running discord.js and keeps sending Notificatio",
+  "description": "It acts as a WebAPI server that keeps running discord.js and keeps sending Notification",
   "main": "index.js",
   "repository": {
     "type": "git",
