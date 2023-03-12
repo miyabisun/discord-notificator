@@ -1,0 +1,21 @@
+{
+  "name": "discord-notificator",
+  "version": "1.0.0",
+  "description": "It acts as a WebAPI server that keeps running discord.js and keeps sending Notificatio",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyabisun/discord-notificator.git"
+  },
+  "keywords": [],
+  "author": "miyabisun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miyabisun/discord-notificator/issues"
+  },
+  "homepage": "https://github.com/miyabisun/discord-notificator#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "fastify": "^4.14.1"
+  }
+}
